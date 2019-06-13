@@ -1,0 +1,6 @@
+C:\Users\kariu\source\repos\validator\validator\bin\Debug\validator.dll
+C:\Users\kariu\source\repos\validator\validator\bin\Debug\validator.pdb
+C:\Users\kariu\source\repos\validator\validator\obj\Debug\validator.csprojAssemblyReference.cache
+C:\Users\kariu\source\repos\validator\validator\obj\Debug\validator.csproj.CoreCompileInputs.cache
+C:\Users\kariu\source\repos\validator\validator\obj\Debug\validator.dll
+C:\Users\kariu\source\repos\validator\validator\obj\Debug\validator.pdb
